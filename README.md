@@ -14,7 +14,7 @@ like [IncludeOS](http://www.includeos.org/).
 
 ## Compilation / Usage
 
-To compile, run make and usual. If you are cross compiling (as is the case
+To compile, run make as usual. If you are cross compiling (as is the case
 with both Bareflank and IncludeOS), you will need to set CC and AR.
 
 ```
