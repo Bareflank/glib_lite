@@ -24,8 +24,8 @@
 
 #include <string.h>
 
-#include <gmem.h>
-#include <gmisc.h>
+#include <glib/gmem.h>
+#include <glib/gmisc.h>
 
 /**
  * g_strdup:

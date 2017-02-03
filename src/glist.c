@@ -26,8 +26,8 @@
  * MT safe
  */
 
-#include "glist.h"
-#include "gmisc.h"
+#include <glib/glist.h>
+#include <glib/gmisc.h>
 
 /**
  * SECTION:linked_lists_double

@@ -26,11 +26,11 @@
  * MT safe
  */
 
-#include <string.h>  /* memset */
+#include <string.h>
 
-#include "ghash.h"
-#include "gmisc.h"
-#include "gatomic.h"
+#include <glib/ghash.h>
+#include <glib/gmisc.h>
+#include <glib/gatomic.h>
 
 /**
  * SECTION:hash_tables

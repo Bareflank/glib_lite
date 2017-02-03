@@ -29,8 +29,8 @@
  * MT safe
  */
 
-#include "gnode.h"
-#include "gmisc.h"
+#include <glib/gnode.h>
+#include <glib/gmisc.h>
 
 /**
  * SECTION:trees-nary

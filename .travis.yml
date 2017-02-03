@@ -1,0 +1,23 @@
+#
+# Configuration
+#
+
+language: c
+
+dist: trusty
+sudo: required
+
+#
+# Build Matrix
+#
+matrix:
+  include:
+
+  #
+  # Native
+  #
+  - os: linux
+    env:
+      - TEST="Native"
+    script:
+      - make

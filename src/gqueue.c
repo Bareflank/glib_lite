@@ -48,8 +48,8 @@
  * To free the entire queue, use g_queue_free().
  */
 
-#include "gmisc.h"
-#include "gqueue.h"
+#include <glib/gqueue.h>
+#include <glib/gmisc.h>
 
 /**
  * g_queue_new:

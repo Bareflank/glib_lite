@@ -17,7 +17,7 @@
  * Author: Ryan Lortie <desrt@desrt.ca>
  */
 
-#include "gatomic.h"
+#include <glib/gatomic.h>
 
 /**
  * SECTION:atomic_operations

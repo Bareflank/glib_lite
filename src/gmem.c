@@ -26,11 +26,11 @@
  * MT safe
  */
 
-#include "gmem.h"
-#include "gmisc.h"
-
 #include <stdlib.h>
 #include <string.h>
+
+#include <glib/gmem.h>
+#include <glib/gmisc.h>
 
 /* notes on macros:
  * having G_DISABLE_CHECKS defined disables use of glib_mem_profiler_table and
