@@ -30,5 +30,5 @@ make clean
 
 ## License
 
-The Bareflank Hypervisor is licensed under the GNU Lesser General Public License
+This repo is licensed under the GNU Lesser General Public License
 v2.1 (LGPL).
