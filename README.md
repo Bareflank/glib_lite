@@ -7,7 +7,7 @@
 ## Description
 
 This repo contains a lite version of glib that only contains ghash, glist,
-gslist, gqueue and gmem. The was created to support [LibVMI](http://libvmi.com/)
+gslist, gqueue and gmem. This was created to support [LibVMI](http://libvmi.com/)
 on systems that cannot support a full GLib including the
 [Bareflank Hypervisor](http://bareflank.github.io/hypervisor/), and Unikernels
 like [IncludeOS](http://www.includeos.org/).
